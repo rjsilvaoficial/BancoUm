@@ -8,10 +8,6 @@ BancoUm é uma aplicação de console construída durante o bootcamp **.Net Esse
 
 A aplicação consiste de uma aplicação para gerenciamento de contas bancárias virtuais.
 
-## Layout oficial:
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
-
-
 # Tecnologias utilizadas
 ## Back end
 - C#
